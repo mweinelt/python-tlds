@@ -2,6 +2,8 @@
 Automatically updated list of valid TLDs for Python
 ###################################################
 
+*Fork that does not require internet access during build.*
+
 The `tlds` module provides a a set of valid TLDs directly taken from IANA_. The package is automatically updated daily.
 
 Available on PyPI_.
